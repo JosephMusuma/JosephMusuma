@@ -1,4 +1,4 @@
-Hi, I’m Joseph Musuma. I’m keenly interested in python programming and software development. I’m currently taking a software development course. I’m looking forward to collaborate with you. Thank you for visiting my profile.
+Hi, I’m Joseph Musuma, keenly interested in software development and passionate about cybersecurity. I’m currently taking a software development course and looking forward to collaborate with you. Thank you for visiting my profile.
 
 
 
